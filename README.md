@@ -25,7 +25,6 @@
 - 👀 I’m interested in Python, SQL and R
 - 🌱 I’m currently learning all the above
 - 💞️ I’m looking to collaborate on Data Science and Machine Learning Projects
-- 📫 How to reach me 
 
 <!---
 Peter5793/Peter5793 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
