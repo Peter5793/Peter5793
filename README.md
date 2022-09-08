@@ -21,7 +21,10 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-- 👋 Hi, I’m Peter Lugalia
+- 👋 Hi, I’m Peter Lugalia, I am a Data Anayst with the following skills under my belt. Take a moment to browse through some of the work that i have been able to do.
+     * Python - Statistical Programming
+     * SQL
+     * R
 - 👀 I’m interested in Python, SQL and R
 - 🌱 I’m currently learning all the above
 - 💞️ I’m looking to collaborate on Data Science and Machine Learning Projects
